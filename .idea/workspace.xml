@@ -20,13 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="052c7214-fc92-409b-891c-a818fc686bc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/COURSERA_NODEJS_TUTORIAL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_NOD_MOD/.eslintrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_NOD_MOD/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_NOD_MOD/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_NOD_MOD/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_NOD_MOD/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_NOD_MOD/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_NOD_MOD/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_NOD_MOD/rectangle.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_NOD_MOD/rectangle.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597559101208</updated>
-      <workItem from="1597559108295" duration="2052000" />
+      <workItem from="1597559108295" duration="4467000" />
     </task>
     <servers />
   </component>
@@ -86,6 +83,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="134" y="91" width="1002" height="848" key="#Intentions" timestamp="1597561528665">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state x="134" y="91" width="1002" height="848" key="#Intentions/1280.0.1366.768/0.27.1280.997@0.27.1280.997" timestamp="1597561528665" />
     <state x="93" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597559195385">
       <screen x="0" y="27" width="1280" height="997" />
     </state>
