@@ -20,10 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="052c7214-fc92-409b-891c-a818fc686bc0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_NODE_AND_HTTP/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_NODE_AND_HTTP/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_NODE_AND_HTTP/public/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_NODE_AND_HTTP/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_NOD_MOD/.eslintrc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_NOD_MOD/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_NOD_MOD/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_NOD_MOD/rectangle.js" beforeDir="false" afterPath="$PROJECT_DIR$/1_NOD_MOD/rectangle.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,8 +45,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.19.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="10.17.28" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -61,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597559101208</updated>
-      <workItem from="1597559108295" duration="4467000" />
+      <workItem from="1597559108295" duration="6845000" />
     </task>
     <servers />
   </component>
