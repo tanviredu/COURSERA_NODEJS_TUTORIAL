@@ -20,11 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="052c7214-fc92-409b-891c-a818fc686bc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/4_EXPRESS_ROUTER/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_EXPRESS_ROUTER/Routes/dishRouter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_EXPRESS_ROUTER/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_EXPRESS_ROUTER/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_EXPRESS_ROUTER/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/conFusionServer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/conFusionServer/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/conFusionServer/bin/www" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/conFusionServer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/conFusionServer/public/stylesheets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/conFusionServer/routes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/conFusionServer/routes/users.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/conFusionServer/views/error.jade" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/conFusionServer/views/index.jade" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/conFusionServer/views/layout.jade" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/conFusionServer/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +76,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597559101208</updated>
-      <workItem from="1597559108295" duration="12026000" />
+      <workItem from="1597559108295" duration="13269000" />
+      <workItem from="1597637935335" duration="1009000" />
     </task>
     <servers />
   </component>
@@ -84,6 +94,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
