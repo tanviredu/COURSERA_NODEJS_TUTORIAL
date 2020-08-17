@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="052c7214-fc92-409b-891c-a818fc686bc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/conFusionServer/routes/dishRouter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_INTRO_MONGODB/mongodb.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_NODE_MONGO/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_NODE_MONGO/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_NODE_MONGO/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_NODE_MONGO/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/conFusionServer/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/5_EXPRESS_GENARETOR/conFusionServer/app.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +34,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/6_INTRO_MONGODB/mongodb.md" root0="FORCE_HIGHLIGHTING" root1="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1gAYvTiYRhHFGpC5A1BvZUK3Hbu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -70,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597559101208</updated>
       <workItem from="1597559108295" duration="13269000" />
-      <workItem from="1597637935335" duration="1575000" />
+      <workItem from="1597637935335" duration="3565000" />
     </task>
     <servers />
   </component>
@@ -101,5 +107,9 @@
       <screen x="0" y="27" width="1280" height="997" />
     </state>
     <state x="93" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.0.1366.768/0.27.1280.997@0.27.1280.997" timestamp="1597559195385" />
+    <state x="401" y="411" width="478" height="209" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597640097543">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state x="401" y="411" width="478" height="209" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1280.0.1366.768/0.27.1280.997@0.27.1280.997" timestamp="1597640097543" />
   </component>
 </project>
