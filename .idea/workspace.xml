@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="052c7214-fc92-409b-891c-a818fc686bc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/13_CRUD_EXPRESS_MONGO/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_CRUD_EXPRESS_MONGO/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_CRUD_EXPRESS_MONGO/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_CRUD_EXPRESS_MONGO/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13_CRUD_EXPRESS_MONGO/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +80,7 @@
       <workItem from="1597559108295" duration="13269000" />
       <workItem from="1597637935335" duration="14411000" />
       <workItem from="1597735399303" duration="1179000" />
-      <workItem from="1597743809251" duration="10578000" />
+      <workItem from="1597743809251" duration="11545000" />
     </task>
     <servers />
   </component>
