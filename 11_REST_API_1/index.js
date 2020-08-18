@@ -201,7 +201,33 @@ app.put("/newapi/course/:id",(req,res)=>{
 
 
 // handling delete request in express
+// for deleting the course
+/*
+*   1) look the course first
+*   2) if not exist return 404
+*   3) if the course exist
+*       3) delete the course
+*   4) return the final message with result
+*
+* */
 
+
+
+
+app.delete("/api/course/:id",(req,res)=>{
+    const course = courses.find(c=>c.id == parseInt(req.params.id));
+    if(!course){
+        res.status(404).send("Course not found");
+
+    }else{
+        // if found then find the index of course
+        const index = courses.indexOf(course);
+        // now use the splice method to delete the course
+        // 1 means delete count how many matched will get deleted
+        courses.splice(index,1);
+        res.send(course);
+    }
+})
 
 
 

@@ -20,25 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="052c7214-fc92-409b-891c-a818fc686bc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/11_REST_API_1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_REST_API_1/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_REST_API_1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_REST_API_1/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_REST_API_1/conFusionServer/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_REST_API_1/conFusionServer/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_REST_API_1/conFusionServer/asset/db.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_REST_API_1/conFusionServer/bin/www" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_REST_API_1/conFusionServer/models/dishes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_REST_API_1/conFusionServer/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_REST_API_1/conFusionServer/public/stylesheets/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_REST_API_1/conFusionServer/routes/dishRouter.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_REST_API_1/conFusionServer/routes/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_REST_API_1/conFusionServer/routes/users.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_REST_API_1/conFusionServer/views/error.jade" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_REST_API_1/conFusionServer/views/index.jade" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_REST_API_1/conFusionServer/views/layout.jade" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_REST_API_1/conFusionServer/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_REST_API_1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/11_REST_API_1/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +75,7 @@
       <workItem from="1597559108295" duration="13269000" />
       <workItem from="1597637935335" duration="14411000" />
       <workItem from="1597735399303" duration="1179000" />
-      <workItem from="1597743809251" duration="7409000" />
+      <workItem from="1597743809251" duration="8338000" />
     </task>
     <servers />
   </component>
