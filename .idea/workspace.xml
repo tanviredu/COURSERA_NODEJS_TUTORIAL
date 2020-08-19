@@ -20,8 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="052c7214-fc92-409b-891c-a818fc686bc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/13_CRUD_EXPRESS_MONGO/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_MONGOOSE_DATA_VALIDATION/IMPORTANT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14_MONGOOSE_DATA_VALIDATION/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_CRUD_EXPRESS_MONGO/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/13_CRUD_EXPRESS_MONGO/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,9 @@
       <workItem from="1597559108295" duration="13269000" />
       <workItem from="1597637935335" duration="14411000" />
       <workItem from="1597735399303" duration="1179000" />
-      <workItem from="1597743809251" duration="11545000" />
+      <workItem from="1597743809251" duration="12797000" />
+      <workItem from="1597802742363" duration="6256000" />
+      <workItem from="1597834054822" duration="3354000" />
     </task>
     <servers />
   </component>
@@ -111,6 +115,26 @@
       <screen x="0" y="27" width="1280" height="997" />
     </state>
     <state x="93" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/1280.0.1366.768/0.27.1280.997@0.27.1280.997" timestamp="1597559195385" />
+    <state width="1252" height="251" key="GridCell.Tab.0.bottom" timestamp="1597816029768">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state width="1252" height="251" key="GridCell.Tab.0.bottom/1280.0.1366.768/0.27.1280.997@0.27.1280.997" timestamp="1597816029768" />
+    <state width="1252" height="251" key="GridCell.Tab.0.center" timestamp="1597816029766">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state width="1252" height="251" key="GridCell.Tab.0.center/1280.0.1366.768/0.27.1280.997@0.27.1280.997" timestamp="1597816029766" />
+    <state width="1252" height="251" key="GridCell.Tab.0.left" timestamp="1597816029763">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state width="1252" height="251" key="GridCell.Tab.0.left/1280.0.1366.768/0.27.1280.997@0.27.1280.997" timestamp="1597816029763" />
+    <state width="1252" height="251" key="GridCell.Tab.0.right" timestamp="1597816029767">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state width="1252" height="251" key="GridCell.Tab.0.right/1280.0.1366.768/0.27.1280.997@0.27.1280.997" timestamp="1597816029767" />
+    <state x="119" y="197" width="1032" height="637" key="IDE.errors.dialog" timestamp="1597804951828">
+      <screen x="0" y="27" width="1280" height="997" />
+    </state>
+    <state x="119" y="197" width="1032" height="637" key="IDE.errors.dialog/1280.0.1366.768/0.27.1280.997@0.27.1280.997" timestamp="1597804951828" />
     <state x="401" y="411" width="478" height="209" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597640097543">
       <screen x="0" y="27" width="1280" height="997" />
     </state>
