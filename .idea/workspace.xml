@@ -20,14 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="052c7214-fc92-409b-891c-a818fc686bc0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/15_MONGOOSE_MODELING_AND_RELATIONSHIP/IMPORTANT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_MONGOOSE_MODELING_AND_RELATIONSHIP/normalization/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_MONGOOSE_MODELING_AND_RELATIONSHIP/normalization/config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_MONGOOSE_MODELING_AND_RELATIONSHIP/normalization/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_MONGOOSE_MODELING_AND_RELATIONSHIP/normalization/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_MONGOOSE_MODELING_AND_RELATIONSHIP/normalization/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_MONGOOSE_MODELING_AND_RELATIONSHIP/package.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +83,7 @@
       <workItem from="1597743809251" duration="12797000" />
       <workItem from="1597802742363" duration="6256000" />
       <workItem from="1597834054822" duration="3874000" />
-      <workItem from="1597881705097" duration="7374000" />
+      <workItem from="1597881705097" duration="8056000" />
     </task>
     <servers />
   </component>
