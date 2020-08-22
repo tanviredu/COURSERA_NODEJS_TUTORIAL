@@ -7,6 +7,24 @@ const express         = require("express");
 const router          = express.Router()
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 router.post("/register",async (req,res)=>{
     const {error} = validate(req.body);
     // if validation error occurs
@@ -60,6 +78,8 @@ router.post("/login",async (req,res)=>{
         return res.status(400).send("Invalid email or password")
     }
     // if both exists and matched
+    req.session.isAuthenticated = true;
+    console.log(req.session.isAuthenticated);
     res.send("welcome user");
 
 })
